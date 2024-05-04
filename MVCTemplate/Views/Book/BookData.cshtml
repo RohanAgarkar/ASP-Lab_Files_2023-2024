@@ -1,0 +1,20 @@
+<h1>this is a view file</h1>
+<h1>Below is the book ID</h1>
+<h1>@ViewData["BookID"]</h1>
+<br>
+<br>
+<h1>Below is the book name</h1>
+<h1>@ViewData["Author"]</h1>
+<br>
+<br>
+<h1>Below is the Price</h1>
+@if(ViewData["Price"] == null){
+    <h1>Price is missing</h1>
+}else{
+    float price;
+    if(float.TryParse(ViewData["Price"].ToString(), out price) && price >= 1 && price <= 100){
+        <h1>@ViewData["Price"]</h1>
+    }else{
+        <h1>The price is out of range</h1>
+    }
+}

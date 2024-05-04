@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "7OZeiLvyBvBVmJi+mHVU6Wcg9q20sIsknNXBzb7SpEI=",
+  "Source": "FileController",
+  "BasePath": "_content/FileController",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileController\\wwwroot",
+      "Source": "FileController",
+      "ContentRoot": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\FileController\\wwwroot\\",
+      "BasePath": "_content/FileController",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\FileController\\wwwroot\\Desires-Batch B-group5.pdf",
+      "SourceId": "FileController",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\FileController\\wwwroot\\",
+      "BasePath": "_content/FileController",
+      "RelativePath": "Desires-Batch B-group5.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Desires-Batch B-group5.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\FileController\\wwwroot\\done.jpg",
+      "SourceId": "FileController",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\FileController\\wwwroot\\",
+      "BasePath": "_content/FileController",
+      "RelativePath": "done.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\done.jpg"
+    }
+  ]
+}

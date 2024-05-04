@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\FileController\\wwwroot\\Desires-Batch B-group5.pdf",
+      "PackagePath": "staticwebassets\\Desires-Batch B-group5.pdf"
+    },
+    {
+      "Id": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\FileController\\wwwroot\\done.jpg",
+      "PackagePath": "staticwebassets\\done.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FileController.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FileController.props",
+      "PackagePath": "build\\FileController.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FileController.props",
+      "PackagePath": "buildMultiTargeting\\FileController.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FileController.props",
+      "PackagePath": "buildTransitive\\FileController.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

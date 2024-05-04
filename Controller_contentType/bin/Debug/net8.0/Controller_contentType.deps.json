@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Controller_contentType/1.0.0": {
+        "dependencies": {
+          "Markdig": "0.34.0"
+        },
+        "runtime": {
+          "Controller_contentType.dll": {}
+        }
+      },
+      "Markdig/0.34.0": {
+        "runtime": {
+          "lib/net8.0/Markdig.dll": {
+            "assemblyVersion": "0.34.0.0",
+            "fileVersion": "0.34.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controller_contentType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Markdig/0.34.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kUS8Y/oW2Cshwq3kv08Lz5hpMjt9MuAaDIGxv86d0RtEUUe4xKKXxdZYS7bV0ZXRfeAAOfjYIrt7zybcIOYvmg==",
+      "path": "markdig/0.34.0",
+      "hashPath": "markdig.0.34.0.nupkg.sha512"
+    }
+  }
+}

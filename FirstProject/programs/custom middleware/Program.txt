@@ -1,0 +1,20 @@
+using FIRSTPROJECT.MyMiddleware;
+using Microsoft.AspNetCore.Http;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddTransient<MyMiddleware>();
+var app = builder.Build();
+
+app.Use(async (HttpContext context, RequestDelegate next) => {
+    await context.Response.WriteAsync("Header Part");
+    await next(context);
+});
+
+app.UseMiddleware<MyMiddleware>();
+
+app.Run(async (HttpContext context)=>{
+    await context.Response.WriteAsync("\nFooter Part");
+});
+
+app.Run();
+

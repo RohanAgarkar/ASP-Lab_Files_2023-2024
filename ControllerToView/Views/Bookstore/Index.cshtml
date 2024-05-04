@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .div-1{
+            background-color: white;
+            height: 55rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 auto;
+        }
+        .centered{
+            background-color: black;
+            color: white;
+            width: 100px;
+            height: 100px;
+            padding: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="div-1">
+        <div class="centered">
+            <ul>
+                @foreach (var i in (string[])@ViewData["Name"]){
+                    <li>@i</li>
+                }
+            </ul>
+            @ViewData["Author"]
+            @ViewData["Price"]
+        </div>
+        <div>
+            <ul>
+                @foreach (var i  in ViewBag.years){
+                    <li>@i</li>
+                }
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

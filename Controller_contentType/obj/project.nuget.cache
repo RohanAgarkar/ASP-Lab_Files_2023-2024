@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CX0SJMOFtXAP1XtMKGGqst9ALZyu1v7Pmyoy5GnhtXM2qZ8PrtXVixdPLGD7jsN/AJw2BazF/lh2tfDo2M+Pmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blood\\Documents\\University\\sem4\\asp.net\\Controller_contentType\\Controller_contentType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blood\\.nuget\\packages\\markdig\\0.34.0\\markdig.0.34.0.nupkg.sha512"
+  ],
+  "logs": []
+}

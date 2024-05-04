@@ -1,0 +1,20 @@
+using Microsoft.AspNetCore.Mvc;
+
+namespace FIRSTPROJECT.controller
+{
+	public class HomeController
+    {
+        [Route("Home")]
+	    [Route("/")]
+        public String Index()
+        {
+            return "This is index action of controller";
+        }
+
+        [Route("AboutUS")]
+        public String AboutUs()
+        {
+            return "This is AboutUS action of controlelr";
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\bin\Debug\net8.0\mvc.exe
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\bin\Debug\net8.0\mvc.deps.json
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\bin\Debug\net8.0\mvc.runtimeconfig.json
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\bin\Debug\net8.0\mvc.dll
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\bin\Debug\net8.0\mvc.pdb
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\mvc.AssemblyInfoInputs.cache
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\mvc.AssemblyInfo.cs
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\mvc.csproj.CoreCompileInputs.cache
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\mvc.dll
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\refint\mvc.dll
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\mvc.pdb
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\mvc.genruntimeconfig.cache
+C:\Users\blood\Documents\University\sem4\asp.net\mvc\obj\Debug\net8.0\ref\mvc.dll
